@@ -40,6 +40,29 @@ print("% Thanks for trying LastButNotLeast :)")
 
 ---
 
+
+## 🚀 Usage
+
+Run the prover from the command line:
+
+```bash
+$ python lastbutnotleast.py problem.p
+```
+
+Expected output:
+
+```
+% LastButNotLeast: The fastest way to give up!
+% For best results, do not expect results.
+% SZS status GaveUp
+% It's not a bug — it's a philosophical stance.
+% Thanks for trying LastButNotLeast :)
+```
+
+Best used when you want to submit *something* to CASC, but not necessarily solve anything.
+
+---
+
 ## 📊 Expected Competition Performance
 
 **LastButNotLeast** is designed to come in last.  
